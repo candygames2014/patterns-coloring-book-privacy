@@ -18,6 +18,10 @@ You can remove data stored in the app’s private storage by clearing its storag
 
 Images saved outside the app’s private storage, if supported and used, may remain on your device after uninstalling. These images can be managed through your device’s gallery or file manager.
 
+LOCAL AGE CHECK
+
+At first launch, and when the local check needs renewal, the app asks for a birth year using a neutral screen. The year is processed only on the device to determine an age band. Only the band and the calendar year of the check are retained in private app storage; the birth year or birth date is not retained or sent to Wisimme, Google, or any other server. These local values are deleted when app storage is cleared or the app is uninstalled. All age groups have access to the same game and receive the same child-directed, non-personalized advertising configuration. Parents or guardians can assist young children with this local step.
+
 3. ADVERTISING
 
 Patterns Coloring Book uses Google AdMob through the Google Mobile Ads SDK to display advertisements.
